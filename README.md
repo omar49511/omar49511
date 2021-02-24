@@ -1,16 +1,25 @@
-### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!--
-**omar49511/omar49511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hola mi nombre es omar
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 👨🏻•💻 Sobre mi </h3>
+
+
+
+- 🤔 &nbsp; Explorando nuevas tecnologias.
+
+- 🎓 &nbsp; Estudiante de ingenieria en sistemas computacionales.
+
+- ✍️ &nbsp; Aprendiendo un poco  de desarrollo web como pasatiempo.
+
+
+
+<h3>🛠 Tecnologias</h3>
+
+
+
+- 💻 &nbsp; Python | C#
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | 
+
