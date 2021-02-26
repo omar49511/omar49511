@@ -23,3 +23,18 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | 
 
+
+\begin{table}[]
+\begin{tabular}{lccccc}
+      & lunes                    & martes                   & miercoles                & jueves                   & viernes                  \\
+11:00 & simulacion               & simulacion               & simulacion               & simulacion               & simulacion               \\
+12:00 & TAP                      & TAP                      &                          & TAP                      &                          \\
+13:00 &                          & TAP                      &                          & TAP                      &                          \\
+14:00 & lenguajes de interfaz    & lenguajes de interfaz    & lenguajes de interfaz    & lenguajes de interfaz    &                          \\
+15:00 & arqui de computadoras    & arqui de computadoras    & arqui de computadoras    & arqui de computadoras    & arqui de computadoras    \\
+16:00 & ecuaciones diferenciales & ecuaciones diferenciales & ecuaciones diferenciales & ecuaciones diferenciales & ecuaciones diferenciales \\
+17:00 & lenguajes y automatas    & lenguajes y automatas    & lenguajes y automatas    & lenguajes y automatas    & lenguajes y automatas    \\
+18:00 & redes de computadoras    & lenguajes y automatas    & lenguajes y automatas    & lenguajes y automatas    & lenguajes y automatas   
+\end{tabular}
+\end{table}
+
