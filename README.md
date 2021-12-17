@@ -3,7 +3,7 @@
 ## Hola mi nombre es omar
 
 
-<h3> -👨 Sobre mi </h3>
+-<h3>👨 Sobre mi </h3>
 
 
 
