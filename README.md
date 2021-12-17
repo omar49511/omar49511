@@ -26,12 +26,12 @@
 
 |       |           lunes          |          martes          |         miercoles        |          jueves          |          viernes         |
 |-------|:------------------------:|:------------------------:|:------------------------:|:------------------------:|:------------------------:|
-| 11:00 |        simulacion        |        simulacion        |        simulacion        |        simulacion        |        simulacion        |
-| 12:00 |            TAP           |            TAP           |                          |            TAP           |                          |
-| 13:00 |                          |            TAP           |                          |            TAP           |                          |
-| 14:00 |   lenguajes de interfaz  |   lenguajes de interfaz  |   lenguajes de interfaz  |   lenguajes de interfaz  |                          |
-| 15:00 |   arqui de computadoras  |   arqui de computadoras  |   arqui de computadoras  |   arqui de computadoras  |   arqui de computadoras  |
-| 16:00 | ecuaciones diferenciales | ecuaciones diferenciales | ecuaciones diferenciales | ecuaciones diferenciales | ecuaciones diferenciales |
-| 17:00 |   lenguajes y automatas  |   lenguajes y automatas  |   lenguajes y automatas  |   lenguajes y automatas  |   lenguajes y automatas  |
-| 18:00 |   redes de computadoras  |   lenguajes y automatas  |   lenguajes y automatas  |   lenguajes y automatas  |   lenguajes y automatas  |
+| 11:00 |                          |                          |                          |                          |                          |
+| 12:00 |                          |                          |                          |                          |                          |
+| 13:00 |                          |                          |                          |                          |                          |
+| 14:00 |                          |                          |                          |                          |                          |
+| 15:00 |                          |                          |                          |                          |                          |
+| 16:00 |                          |                          |                          |                          |                          |
+| 17:00 |                          |                          |                          |                          |                          |
+| 18:00 |                          |                          |                          |                          |                          |
 
