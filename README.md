@@ -36,5 +36,9 @@
 | 18:00 |                          |                          |                          |                          |                          |
 
 ![11111|10](https://user-images.githubusercontent.com/72781778/210324717-a3e280ba-31a9-447c-9495-a6045d5e51e4.png)
-
+<p align="center">
+ 
+<img src="https://user-images.githubusercontent.com/72781778/210324717-a3e280ba-31a9-447c-9495-a6045d5e51e4.png" title="Perfiles aerodinamicos." width="600" height="450">
+ 
+</p>
 
