@@ -21,7 +21,7 @@
 
 - 💻 &nbsp; Python | C# | PHP
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Laravel
 
 
 <!-- |       |           lunes          |          martes          |         miercoles        |          jueves          |          viernes         |
