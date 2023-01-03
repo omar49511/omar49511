@@ -42,9 +42,10 @@
 | 16:00 |                          |                          |                          |                          |                          |
 | 17:00 |                          |                          |                          |                          |                          |
 | 18:00 |                          |                          |                          |                          |                          | -->
-
 <p align="center">
-![](https://github-readme-stats.vercel.app/api?username=omar49511)(https://github.com/omar49511/github-readme-stats)
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar49511" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omar49511">
 </p>
 <p align="center">
