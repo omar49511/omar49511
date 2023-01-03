@@ -1,4 +1,5 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FM4cs&psig=AOvVaw2AXRYv-oM-Zx5VeupEVVqO&ust=1672835342817000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLC91bSzq_wCFQAAAAAdAAAAABAT" width="230">
+<img align='left' src="https://camo.githubusercontent.com/63abdc3407ab5749a6fa046151ee56433f7922da540e1aa8d3b5795200dde75f/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966" width="230">
 
 ## Hola mi nombre es omar
 
@@ -37,8 +38,6 @@
 
 
 <p align="center">
- 
 <img src="https://user-images.githubusercontent.com/72781778/210324717-a3e280ba-31a9-447c-9495-a6045d5e51e4.png" title="11111=1F=31=49=16+13+1+19" width="100" height="200">
- 
 </p>
 
