@@ -19,7 +19,7 @@
 
 
 
-- 💻 &nbsp; Python | C#
+- 💻 &nbsp; Python | C# | PHP
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | 
 
