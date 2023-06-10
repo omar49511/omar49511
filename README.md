@@ -55,11 +55,8 @@
 | 18:00 |                          |                          |                          |                          |                          | -->
 <p align="center">
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar49511" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omar49511">
 </p>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/72781778/210324717-a3e280ba-31a9-447c-9495-a6045d5e51e4.png" title="11111=1F=31=49=16+13+1+19" width="100" height="200">
-</p>
+
+
 
