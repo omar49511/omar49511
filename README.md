@@ -28,21 +28,6 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Laravel
 
-| Hora         | Lunes       | Martes      | Miércoles   | Jueves     | Viernes   | Sábado     | Domingo   |
-|--------------|-------------|-------------|-------------|------------|-----------|------------|-----------|
-| 8:00 - 9:00  | Gramática   | Comprensión auditiva | Gramática | Comprensión auditiva | Gramática | Comprensión auditiva | Gramática |
-| 9:00 - 10:00 | Práctica oral | Vocabulario | Práctica oral | Vocabulario | Práctica oral | Vocabulario | Práctica oral |
-| 10:00 - 11:00| -           | -           | -           | -          | -         | -          | -         |
-| 11:00 - 12:00| -           | -           | -           | -          | -         | -          | -         |
-| 12:00 - 13:00| Práctica oral | Vocabulario | Práctica oral | Vocabulario | Práctica oral | Vocabulario | Práctica oral |
-| 13:00 - 14:00| -           | -           | -           | -          | -         | -          | -         |
-| 14:00 - 15:00| -           | -           | -           | -          | -         | -          | -         |
-| 15:00 - 16:00| -           | -           | -           | -          | -         | -          | -         |
-| 16:00 - 17:00| Comprensión auditiva | Gramática | Escuchar podcast | Gramática | Ver serie | Pronunciación | Lectura |
-| 17:00 - 18:00| -           | -           | -           | -          | -         | -          | -         |
-| 18:00 - 19:00| -           | -           | -           | -          | -         | -          | -         |
-| 19:00 - 20:00| -           | -           | -           | -          | -         | -          | -         |
-| 20:00 - 21:00| Lectura     | Película   | Lectura     | Lectura en línea | Escuchar música | Lectura | Descanso |
 
 <!-- |       |           lunes          |          martes          |         miercoles        |          jueves          |          viernes         |
 |-------|:------------------------:|:------------------------:|:------------------------:|:------------------------:|:------------------------:|
