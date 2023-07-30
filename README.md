@@ -7,7 +7,7 @@
 ## Omar Reyes Zamudio 🦇
 
 
-Bienvenido/a a mi perfil de GitHub. Soy un apasionado/a del desarrollo de software y la programación, siempre en busca de nuevos desafíos y oportunidades para aprender y crecer en este emocionante campo.
+Bienvenido/a a mi perfil de GitHub. Soy un apasionado del desarrollo de software y la programación, siempre en busca de nuevos desafíos y oportunidades para aprender y crecer en este emocionante campo.
 
 
 <h3>🌐 Lenguajes</h3>
