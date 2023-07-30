@@ -7,15 +7,7 @@
 ## Omar Reyes Zamudio 🦇
 
 
-<h3>🧟‍♂️ Sobre mi </h3>
-
-
-- 🤔 &nbsp; Explorando nuevas tecnologias.
-
-- 🎓 &nbsp; Estudiante de ingenieria en sistemas computacionales.
-
-- ✍️ &nbsp; Aprendiendo un poco  de desarrollo web como pasatiempo.
-
+Bienvenido/a a mi perfil de GitHub. Soy un apasionado/a del desarrollo de software y la programación, siempre en busca de nuevos desafíos y oportunidades para aprender y crecer en este emocionante campo.
 
 
 <h3>🌐 Lenguajes</h3>
