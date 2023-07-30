@@ -46,11 +46,9 @@
 | 18:00 |                          |                          |                          |                          |                          | -->
 <p align="center">
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omar49511)](https://github.com/omar49511/github-readme-stats)
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omar49511&show_icons=true&theme=dracula)
   
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar49511" />
-  <img src="https://github-readme-stats.vercel.app/api?username=omar49511">
   
 </p>
 
