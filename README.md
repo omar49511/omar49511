@@ -10,7 +10,6 @@
 <h3>🧟‍♂️ Sobre mi </h3>
 
 
-
 - 🤔 &nbsp; Explorando nuevas tecnologias.
 
 - 🎓 &nbsp; Estudiante de ingenieria en sistemas computacionales.
@@ -19,7 +18,7 @@
 
 
 
-<h3>Lenguajes</h3>
+<h3>🌐 Lenguajes</h3>
 
 ---
 
@@ -45,21 +44,6 @@
 
 
 
-- 💻 &nbsp; Python | C# | PHP
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | Laravel
-
-
-<!-- |       |           lunes          |          martes          |         miercoles        |          jueves          |          viernes         |
-|-------|:------------------------:|:------------------------:|:------------------------:|:------------------------:|:------------------------:|
-| 11:00 |                          |                          |                          |                          |                          |
-| 12:00 |                          |                          |                          |                          |                          |
-| 13:00 |                          |                          |                          |                          |                          |
-| 14:00 |                          |                          |                          |                          |                          |
-| 15:00 |                          |                          |                          |                          |                          |
-| 16:00 |                          |                          |                          |                          |                          |
-| 17:00 |                          |                          |                          |                          |                          |
-| 18:00 |                          |                          |                          |                          |                          | -->
 <div align="center">
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omar49511&show_icons=true&theme=dracula)
