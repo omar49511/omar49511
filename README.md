@@ -44,13 +44,13 @@
 | 16:00 |                          |                          |                          |                          |                          |
 | 17:00 |                          |                          |                          |                          |                          |
 | 18:00 |                          |                          |                          |                          |                          | -->
-<p align="center">
+<div align="center">
   
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omar49511&show_icons=true&theme=dracula)
   
   
-</p>
+</div>
 
 
 
