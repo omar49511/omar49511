@@ -4,7 +4,7 @@
   
 </div>
 
-## Mi nombre es omar
+## Omar Reyes Zamudio 🦇
 
 
 <h3>👨 Sobre mi </h3>
