@@ -52,13 +52,6 @@ Soy un apasionado del desarrollo de software y la programación, siempre en busc
 
 <div align="center">
 
-<img src="https://github.com/omar49511/omar49511/assets/72781778/a5b5faae-79ae-4da3-b8c5-6e17f8768fb1" usemap="#image-map">
-
-<map name="image-map">
-    <area target="" alt="" title="" href="https://www.youtube.com/watch?v=YgEl3OEU2DA&amp;ab_channel=Akane-Topic" coords="261,105,863,43" shape="rect">
-    <area target="" alt="" title="" href="https://www.youtube.com/watch?v=knUMag0Iu0g&amp;ab_channel=%E7%9C%9F%E7%92%83MarieFD" coords="987,5,1117,142,1126,97" shape="rect">
-</map>
-
 ![path348](https://github.com/omar49511/omar49511/assets/72781778/a5b5faae-79ae-4da3-b8c5-6e17f8768fb1)
   
 </div>
