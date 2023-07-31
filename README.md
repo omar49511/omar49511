@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&size=35&duration=4870&pause=1000&color=DD6387&center=true&vCenter=true&width=700&height=70&lines=Bienvenido%2Fa+a+mi+perfil+de+GitHub.+%F0%9F%95%B7)](https://git.io/typing-svg)
 
 ![poster](https://github.com/omar49511/omar49511/assets/72781778/28b283f4-054f-461d-8ca3-49b6c2359787)
-  
+
 </div>
 
 ## Omar Reyes Zamudio 🦇
