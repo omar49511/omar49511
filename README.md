@@ -45,7 +45,8 @@ Bienvenido/a a mi perfil de GitHub. Soy un apasionado del desarrollo de software
 
 ---
 
-![rect359](https://github.com/omar49511/omar49511/assets/72781778/348d87f1-8a7e-4572-82e9-7879fadcdb6a)
+![rect359](https://github.com/omar49511/omar49511/assets/72781778/0d65d92d-0c7f-402a-8353-c5d3f12239cf)
+
 
 
 
