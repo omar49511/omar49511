@@ -2,8 +2,7 @@
 
 ![poster](https://github.com/omar49511/omar49511/assets/72781778/28b283f4-054f-461d-8ca3-49b6c2359787)
 
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=8A128D&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Hello%2C+welcome+to+my+github+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=8A128D&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Hello%2C+welcome+to+my+github+%F0%9F%91%8B)](https://git.io/typing-svg)
   
 </div>
 
