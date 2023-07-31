@@ -53,8 +53,7 @@ Soy un apasionado del desarrollo de software y la programación, siempre en busc
 <div align="center">
 
 ![path348](https://github.com/omar49511/omar49511/assets/72781778/a5b5faae-79ae-4da3-b8c5-6e17f8768fb1)
-![path348](https://github.com/omar49511/omar49511/assets/72781778/a5b5faae-79ae-4da3-b8c5-6e17f8768fb1)
-  ![rect537](https://github.com/omar49511/omar49511/assets/72781778/66ccab07-1cc0-46b9-b743-24c76094fcbb)
+![rect359](https://github.com/omar49511/omar49511/assets/72781778/0d65d92d-0c7f-402a-8353-c5d3f12239cf)
 </div>
 
 
