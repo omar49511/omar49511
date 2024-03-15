@@ -1,9 +1,6 @@
 <div align="center" style="background-color:#33475b">
 
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&size=29&pause=1000&color=DE6488&random=false&width=450&lines=+%3Ch1%3E+Bienvenid%40+a+mi+perfil+de+github++%3C%2Fh1%3E)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&size=29&pause=1000&color=DE6488&random=false&width=660&lines=+%3Ch1%3E+Bienvenid%40+a+mi+perfil+de+github++%3C%2Fh1%3E)](https://git.io/typing-svg)
 
 ![path314](https://github.com/omar49511/omar49511/assets/72781778/0228a993-5360-460e-a5f0-21c27408d3a5)
 
