@@ -8,7 +8,7 @@
 
 </div>
 
-## Omar Reyes Zamudio 🦇
+## Omar Reyes Zamudio
 
 
 Soy un apasionado del desarrollo de software y la programación, siempre en busca de nuevos desafíos y oportunidades para aprender y crecer en este emocionante campo.
