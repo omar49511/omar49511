@@ -14,7 +14,6 @@
 Soy un apasionado del desarrollo de software y la programación, siempre en busca de nuevos desafíos y oportunidades para aprender y crecer en este emocionante campo.
 
 ---
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/omar49511/omar49511/output/github-contribution-grid-snake.svg" />
 
 <h3>🌐 Lenguajes</h3>
 
