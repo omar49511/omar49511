@@ -47,7 +47,6 @@ Soy un apasionado del desarrollo de software y la programación, siempre en busc
 
 ---
 
-![alan](https://github.com/omar49511/omar49511/assets/72781778/89c660be-3c6b-4c46-b5ca-9e3150da47de)
 
 
 
