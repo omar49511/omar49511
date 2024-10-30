@@ -11,7 +11,7 @@
 ## Omar Reyes Zamudio
 
 
-Soy un apasionado del desarrollo de software y la programación, siempre en busca de nuevos desafíos y oportunidades para aprender y crecer en este emocionante campo.
+Mi meta es desarrollar aplicaciones que generen impacto real, enfocándome en resultados sólidos y en el crecimiento constante de mis habilidades. Creo en el valor de un trabajo bien hecho y en que sus resultados hablen por sí solos.
 
 ---
 
