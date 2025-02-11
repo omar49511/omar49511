@@ -10,7 +10,6 @@
 
 ## Omar Reyes Zamudio
 
-
 Mi meta es desarrollar aplicaciones que generen impacto real, enfocándome en resultados sólidos y en el crecimiento constante de mis habilidades. Creo en el valor de un trabajo bien hecho y en que sus resultados hablen por sí solos.
 
 ---
