@@ -1,6 +1,8 @@
 <div align="center" style="background-color:#33475b">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2000&pause=10000&center=true&width=435&lines=Welcome+To+My+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=79FF97&weight=800&size=28&duration=2000&pause=10000&center=true&width=435&lines=Welcome+To+My+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+
 
 
 </div>
