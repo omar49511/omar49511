@@ -5,6 +5,9 @@
 
 </div>
 
+<div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omar49511&show_icons=true&theme=dracula)
+</div>
 ## Omar Reyes Zamudio
 
 Mi meta es desarrollar aplicaciones que generen impacto real, enfocándome en resultados sólidos y en el crecimiento constante de mis habilidades. Creo en el valor de un trabajo bien hecho y en que sus resultados hablen por sí solos.
@@ -35,11 +38,7 @@ Mi meta es desarrollar aplicaciones que generen impacto real, enfocándome en re
 
 ---
 
-<div align="center">
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omar49511&show_icons=true&theme=dracula)
-  
-</div>
 
 ---
 
