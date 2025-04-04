@@ -7,7 +7,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omar49511&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar49511&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar49511&layout=compact&theme=dracula)
 
 ## Omar Reyes Zamudio
 
