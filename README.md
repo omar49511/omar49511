@@ -10,6 +10,7 @@
 <a href="https://github.com/omar49511/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omar49511&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
+
 ## Omar Reyes Zamudio
 
 Mi meta es desarrollar aplicaciones que generen impacto real, enfocándome en resultados sólidos y en el crecimiento constante de mis habilidades. Creo en el valor de un trabajo bien hecho y en que sus resultados hablen por sí solos.
