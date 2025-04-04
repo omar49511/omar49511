@@ -2,9 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2000&pause=10000&center=true&width=435&lines=Welcome+To+My+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-![path314](https://github.com/omar49511/omar49511/assets/72781778/0228a993-5360-460e-a5f0-21c27408d3a5)
-
-
 
 </div>
 
