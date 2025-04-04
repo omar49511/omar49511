@@ -5,10 +5,10 @@
 
 </div>
 <a href="https://github.com/omar49511/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=omar49511" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=omar49511&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/omar49511/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omar49511&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
 [![Anurag's GitHub stats-Dark](&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
