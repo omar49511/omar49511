@@ -36,13 +36,6 @@ Mi meta es desarrollar aplicaciones que generen impacto real, enfocándome en re
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
----
-
-
-
----
-
-
 
 
 
