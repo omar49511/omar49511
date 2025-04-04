@@ -10,31 +10,6 @@
 <a href="https://github.com/omar49511/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omar49511&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=omar49511&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=omar49511&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=omar49511&show_icons=true" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/top-langs?username=omar49511&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/top-langs?username=omar49511&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omar49511&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</picture>
-
 ## Omar Reyes Zamudio
 
 Mi meta es desarrollar aplicaciones que generen impacto real, enfocándome en resultados sólidos y en el crecimiento constante de mis habilidades. Creo en el valor de un trabajo bien hecho y en que sus resultados hablen por sí solos.
