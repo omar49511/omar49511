@@ -12,7 +12,7 @@
 
 ## Omar Reyes Zamudio
 
-Soy una persona que cree en el valor de poner esfuerzo y dedicación en cada cosa que hace. Con el código como herramienta, sé que es posible construir soluciones que no solo funcionan, sino que transforman y mejoran la vida de las personas.
+Soy una persona que cree en el valor de poner esfuerzo y dedicación en cada cosa que hace. Con el código como herramienta, sé que es posible construir soluciones que transforman y mejoran la vida de las personas.
 No me defino por un lenguaje o una tecnología; me defino por mi compromiso con hacer las cosas bien, con aprender, mejorar y perseverar hasta lograrlo.
 
 
