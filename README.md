@@ -17,6 +17,13 @@
 
 Mi meta es desarrollar aplicaciones que generen impacto real, enfocándome en resultados sólidos y en el crecimiento constante de mis habilidades. Creo en el valor de un trabajo bien hecho y en que sus resultados hablen por sí solos.
 
+
+🏆 ¿Qué puedes encontrar en mi GitHub?
+📌 Proyectos con enfoque en arquitectura bien pensada y código escalable.
+🔍 Experimentos con nuevas tecnologías y buenas prácticas.
+📖 Repositorios donde documento mi proceso de aprendizaje.
+
+💬 ¿Quieres colaborar en algo interesante? Estoy abierto a oportunidades donde pueda aportar mi experiencia y seguir creciendo. ¡Hablemos! 😃
 ---
 
 <h3>🌐 Lenguajes</h3>
