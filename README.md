@@ -2,9 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=79FF97&weight=800&size=28&duration=2000&pause=10000&center=true&width=435&lines=Welcome+To+My+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-
-
-
 </div>
 <a href="https://github.com/omar49511/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=omar49511&theme=dark&show_icons=true&rank_icon=github" />
@@ -38,8 +35,6 @@ No me defino por un lenguaje o una tecnología; me defino por mi compromiso con 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
 
 <h3>🛠 Herramientas </h3>
 
