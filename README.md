@@ -15,10 +15,11 @@
 
 ## Omar Reyes Zamudio
 
-Mi meta es desarrollar aplicaciones que generen impacto real, enfocándome en resultados sólidos y en el crecimiento constante de mis habilidades. Creo en el valor de un trabajo bien hecho y en que sus resultados hablen por sí solos.
+Soy una persona que cree en el valor de poner esfuerzo y dedicación en cada cosa que hace. Con el código como herramienta, sé que es posible construir soluciones que no solo funcionan, sino que transforman y mejoran la vida de las personas.
+No me defino por un lenguaje o una tecnología; me defino por mi compromiso con hacer las cosas bien, con aprender, mejorar y perseverar hasta lograrlo.
 
 
-- 🏆 ¿Qué puedes encontrar en mi GitHub?
+<h3>🏆 ¿Qué puedes encontrar en mi GitHub?</h3>
 
 - 📌 Proyectos con enfoque en arquitectura bien pensada y código escalable.
 
