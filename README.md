@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=79FF97&weight=800&size=28&duration=2000&pause=10000&center=true&width=435&lines=Welcome+To+My+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 
+<img width="984" height="1111" alt="vtv navy" src="https://github.com/user-attachments/assets/60a915b6-a146-4921-82b8-690519c780d2" />
+
 </div>
 <a href="https://github.com/omar49511/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=omar49511&theme=dark&show_icons=true&rank_icon=github" />
