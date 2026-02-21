@@ -3,12 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=79FF97&weight=800&size=28&duration=2000&pause=10000&center=true&width=435&lines=Welcome+To+My+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 </div>
-<a href="https://github.com/omar49511/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=omar49511&theme=dark&show_icons=true&rank_icon=github" />
-</a>
-<a href="https://github.com/omar49511/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omar49511&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
+
 
 ## Omar Reyes Zamudio
 
